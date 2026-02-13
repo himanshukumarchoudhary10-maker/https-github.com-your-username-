@@ -1,0 +1,1 @@
+Okay, I need to write a Python script that takes a phone number as input and fetches detailed information about the person associated with it. How can I do this using an API? Provide a step-by-step guide and code for VS Code.
